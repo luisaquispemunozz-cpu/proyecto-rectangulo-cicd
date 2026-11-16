@@ -6,7 +6,7 @@ from main import calcular_area
 
 def test_calcular_area():
     resultado = calcular_area(5, 4)
-    assert resultado == 30
+    assert resultado == 20
 
 
 def test_area_decimal():
